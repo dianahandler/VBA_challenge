@@ -1,4 +1,4 @@
-###VBA_Challenge
+#VBA_Challenge
 ##Overview
 The purpose of this challenge was to refactor solution code so as to more efficiently analyze stock data that would otherwise take much longer to run. The provided dataset displays the recorded volumes of 12 tickers over the years 2017 and 2018, totalling in over 3000 rows of data. The first macros run from Module 2 may work on this dataset but the sheer measure of data will cause it to work more slowly than a refactored version. 
 ##Results
